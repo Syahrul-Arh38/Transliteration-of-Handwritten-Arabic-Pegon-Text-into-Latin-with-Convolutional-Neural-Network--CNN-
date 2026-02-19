@@ -208,12 +208,6 @@ Potential extensions of this research:
 
 ---
 
-## Author
-
-**Syahrul Ihza Arhamna**
-Information Technology Graduate
-Focus: **Computer Vision • Deep Learning • Cultural Script Digitization**
-
 ---
 
 ## License
