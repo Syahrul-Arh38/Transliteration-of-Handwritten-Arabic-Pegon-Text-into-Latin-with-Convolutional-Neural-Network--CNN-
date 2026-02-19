@@ -1,6 +1,6 @@
 # Transliteration of Handwritten Arabic-Pegon Text into Latin with Convolutional Neural Network (CNN)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
 ![Status](https://img.shields.io/badge/Project-Research%20Prototype-green)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
